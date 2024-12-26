@@ -1,0 +1,89 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #222;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand,
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+/* Hero Section */
+.hero-section h1,
+.hero-section p {
+    color: black ;
+}
+
+/* Buttons */
+.btn {
+    background-color: #000;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #444;
+    color: #fff;
+}
+
+/* Blog Card Styles */
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+/* Modals */
+.modal-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-body {
+    font-size: 1rem;
+}
+
+/* Form Styles */
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 5px;
+}

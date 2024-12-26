@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Introduction to JavaScript",
+        "author": "John Doe",
+        "category": "Learning",
+        "description": "This blog post introduces JavaScript, its features, and how to get started with it."
+    },
+    {
+        "title": "Web Development 101",
+        "author": "Jane Smith",
+        "category": "Technology",
+        "description": "A beginner's guide to web development, including HTML, CSS, and JavaScript basics."
+    },
+    {
+        "title": "The Future of AI",
+        "author": "Mark Lee",
+        "category": "Technology",
+        "description": "Exploring how Artificial Intelligence is changing the world and its potential for the future."
+    },
+    {
+        "title": "Healthy Living Tips",
+        "author": "Anna Brown",
+        "category": "Lifestyle",
+        "description": "Practical tips for maintaining a healthy lifestyle, including exercise, diet, and mental health."
+    },
+    {
+        "title": "The Impact of Social Media",
+        "author": "Emily Davis",
+        "category": "Lifestyle",
+        "description": "Examining how social media affects our daily lives and the pros and cons of its use."
+    }
+]
